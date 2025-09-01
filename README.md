@@ -16,4 +16,4 @@ In this repo you can find
 
 -   The **report** folder which contains the final thesis pdf.
 
-I hope you find the code present in this directory useful in understanding the main ideas of my thesis. If you have any questions don't hesitate to contact me on: [is323\@ic.ac.uk](mailto:is323@ic.ac.uk){.email}
+I hope you find the code present in this directory useful in understanding the main ideas of my thesis. If you have any questions don't hesitate to contact me on: [jspanosn\@gmail.com](mailto:jspanosn@gmail.com).
